@@ -1,0 +1,14 @@
+{
+  "name": "clone",
+  "repo": "heatroom/clone",
+  "description": "object deep clone component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {"component/type": "*"},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
